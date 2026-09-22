@@ -7,6 +7,12 @@ M.Sc. candidate in **Engineering Physics — Mathematics and Physics for Quantum
 - **Quantum computation and information** — quantum circuits, computing architectures, communication protocols, and how theoretical models map onto physical implementations
 - **Quantum optics and photonics** — field quantisation, quasi-classical states, single-photon sources
 
+### Featured
+
+**[Superconductivity: From BCS Theory to Bose-Einstein Condensation of Pairs](https://github.com/marco992233/Superconductivity-bcs-to-bec)** — a 77-page report taking superconductivity from the London equations through Cooper pairing and the BCS-BEC crossover to the Ginzburg-Landau formalism, with full LaTeX sources.
+
+Superconducting qubits are built on exactly this physics: Cooper pairing, the macroscopic phase of the condensate, and how that phase responds to fields. The report covers those foundations rather than the devices.
+
 ### Currently
 
 Looking for a **Master's thesis in quantum computing or quantum circuits**. Open to PhD positions and industry roles afterwards.
